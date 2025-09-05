@@ -4,6 +4,24 @@
     box-sizing: border-box;
 
 
+}
+
+.quadrados {
+    width: 100vw;
+    height: 200px;
+    background-color: aliceblue;
+
+
+
+
+
+}
+
+.triangulos {
+    width: 100vw;
+    height: 100px;
+    background-color: aqua;
+
 
 
 
