@@ -8,7 +8,7 @@
 
 .quadrados {
     width: 100vw;
-    height: 200px;
+    height: 100px;
     background-color: rgb(0, 100, 188);
     display: flex;
     justify-content: space-between;
@@ -19,10 +19,10 @@
 
 
 }
-.quadradrados div {
+.quadrados div {
     width: 100px;
-    height: 200px;
-    background-color: rgb(132, 0, 255);
+    height: 100px;
+    background-color: rgb(11, 246, 93);
 
 
 
