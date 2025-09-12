@@ -32,7 +32,7 @@
 
 
 }
-.triangulos {
+.circulos {
     width: 100vw;
     height: 100px;
     background-color: aqua;
@@ -45,7 +45,7 @@
 
 }
 
-.triangulos div{
+.circulos div{
     width: 100px;
     height: 100px;
     background-color: brown;
